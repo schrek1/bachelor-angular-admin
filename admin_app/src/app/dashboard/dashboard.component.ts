@@ -1,6 +1,8 @@
 import {Component, OnInit} from '@angular/core';
 import {AuthService} from "../service/auth.service";
 
+declare var firebase: any;
+
 @Component({
   selector: 'app-dashboard',
   template: `
@@ -19,7 +21,8 @@ export class DashboardComponent implements OnInit {
   ngOnInit() {
   }
 
-  isLoggedIn(): boolean {
+
+  isLoggedIn(): boolean{
     return this.authService.isLoggedIn();
   }
 
