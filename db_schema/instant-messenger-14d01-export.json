@@ -1,0 +1,57 @@
+{
+  "app" : {
+    "conversations" : {
+      "conv_id" : {
+        "attachements" : {
+          "attachement_id" : {
+            "name" : "name",
+            "size" : "size",
+            "type" : "type"
+          }
+        },
+        "messages" : {
+          "message_id" : "message_id"
+        },
+        "users" : {
+          "user_id" : "user_id"
+        }
+      }
+    },
+    "groups" : {
+      "group_id" : {
+        "messages" : {
+          "mesage_obj" : "mesage_obj"
+        },
+        "subscribers" : {
+          "user_id" : "user_id"
+        }
+      }
+    },
+    "users" : {
+      "RHax8oVkWgedqThFJGu3zhsUmNM2" : {
+        "friends" : {
+          "id_firend" : "id_firend"
+        },
+        "info" : {
+          "id_info" : "id_info"
+        }
+      },
+      "user_id" : {
+        "friends" : {
+          "id_friend" : "id_friend"
+        },
+        "info" : {
+          "name" : "name",
+          "surename" : "surename"
+        }
+      }
+    }
+  },
+  "server" : {
+    "administrators" : {
+      "6T31JeJLhvcqgQxHPvbT4cAUxgg1" : {
+        "username" : "admin@admin.com"
+      }
+    }
+  }
+}
