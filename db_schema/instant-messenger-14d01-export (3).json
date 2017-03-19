@@ -1,0 +1,125 @@
+{
+  "app" : {
+    "groups" : {
+      "group_id" : {
+        "messages" : {
+          "mesage_obj" : "mesage_obj"
+        },
+        "subscribers" : {
+          "user_id" : "user_id"
+        }
+      }
+    },
+    "messages" : {
+      "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+        "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_conversation"
+          },
+          "1489844600" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "Cus :)"
+          }
+        }
+      },
+      "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+        "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+          "1489844500" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "Ahoj sefe..."
+          },
+          "1489844699" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se vede?"
+          }
+        },
+        "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_coversation"
+          },
+          "1489940000" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "jak se vede?"
+          },
+          "1489953378 " : {
+            "read" : false,
+            "type" : "text",
+            "value" : "co je???"
+          }
+        }
+      },
+      "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+        "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+          "1489923378" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "Zdar"
+          },
+          "1489963378" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "co by...jen pisu"
+          }
+        }
+      }
+    },
+    "subscribes" : {
+      "sub_id" : {
+        "info" : "info",
+        "users" : {
+          "uid" : "udi"
+        }
+      }
+    },
+    "users" : {
+      "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+        "friends" : {
+          "1ys9tmu6DqbZCP0wbUmQZeqerib2" : "karelpapousek@gmail.com",
+          "8zngEay1PrNNf9pPuUuZgLdaQXC2" : "nemo@van.com",
+          "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : "kamilklein@yahoo.com"
+        },
+        "info" : {
+          "username" : "karelpapousek@gmail.com"
+        }
+      },
+      "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+        "friends" : {
+          "1ys9tmu6DqbZCP0wbUmQZeqerib2" : "karelpapousek@gmail.com",
+          "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : "jannovak@seznam.cz"
+        },
+        "info" : {
+          "username" : "nemo@van.com"
+        }
+      },
+      "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+        "friends" : {
+          "id_firend" : "id_firend"
+        },
+        "info" : {
+          "username" : "jannovak@seznam.cz"
+        }
+      },
+      "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : {
+        "friends" : {
+          "id_firend" : "id_firend"
+        },
+        "info" : {
+          "username" : "kamilklein@yahoo.com"
+        }
+      }
+    }
+  },
+  "server" : {
+    "administrators" : {
+      "6T31JeJLhvcqgQxHPvbT4cAUxgg1" : {
+        "username" : "admin@admin.com"
+      }
+    }
+  }
+}

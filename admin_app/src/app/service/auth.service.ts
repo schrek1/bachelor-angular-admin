@@ -34,7 +34,7 @@ export class AuthService {
     );
   }
 
-  isLoggedIn(): boolean {
+  isLoggedIn(){
     let user = firebase.auth().currentUser;
 
     if (user && this.isAdmin) {

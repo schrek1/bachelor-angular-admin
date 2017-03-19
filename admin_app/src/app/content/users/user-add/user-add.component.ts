@@ -27,6 +27,7 @@ export class UserAddComponent implements OnInit {
         username: this.addUserForm.value.username,
         password: this.addUserForm.value.password
       });
+    this.addUserForm.reset();
   }
 
 }

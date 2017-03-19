@@ -18,9 +18,9 @@ export class UserService {
       .then(userInfo => {
         firebase.database().ref('app/users/' + userInfo.uid).set({
           friends: {id_firend: "id_firend"},
-          info: {id_info: "id_info"}
+          info: {username: user.username}
         });
-        console.log(userInfo);
+        console.log('user created!');
       })
       .catch(function (error) {
         console.log(error);
