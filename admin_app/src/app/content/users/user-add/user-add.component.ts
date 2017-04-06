@@ -29,5 +29,4 @@ export class UserAddComponent implements OnInit {
       });
     this.addUserForm.reset();
   }
-
 }

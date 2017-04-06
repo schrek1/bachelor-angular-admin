@@ -1,0 +1,175 @@
+{
+  "app" : {
+    "groups" : {
+      "group_id" : {
+        "messages" : {
+          "mesage_obj" : "mesage_obj"
+        },
+        "subscribers" : {
+          "user_id" : "user_id"
+        }
+      }
+    },
+    "messages" : {
+      "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+        "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_conversation"
+          },
+          "1489844600" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "Cus :)"
+          },
+          "1490262333" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se mas?"
+          }
+        }
+      },
+      "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+        "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+          "1489844500" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "Ahoj sefe..."
+          },
+          "1489844699" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se vede?"
+          },
+          "1490262425" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "docela fajn."
+          },
+          "1490262828" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "a co ty??"
+          }
+        },
+        "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_coversation"
+          },
+          "1489940000" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se vede?"
+          },
+          "1490179741" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "ansdasdsad"
+          },
+          "1490180000" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "test"
+          },
+          "1489953378 " : {
+            "read" : true,
+            "type" : "text",
+            "value" : "co je???"
+          }
+        }
+      },
+      "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+        "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+          "1489923378" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "Zdar"
+          },
+          "1489963378" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "co by...jen pisu"
+          },
+          "1490190000" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "odpoved"
+          },
+          "1490192703" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "neco"
+          },
+          "1490193612" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jsdfhjkasdfjasdf"
+          },
+          "1490194260" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "pokus"
+          },
+          "1490195185" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "mej se"
+          }
+        }
+      }
+    },
+    "subscribes" : {
+      "sub_id" : {
+        "info" : "info",
+        "users" : {
+          "uid" : "udi"
+        }
+      }
+    },
+    "users" : {
+      "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+        "friends" : {
+          "1ys9tmu6DqbZCP0wbUmQZeqerib2" : "karelpapousek@gmail.com",
+          "8zngEay1PrNNf9pPuUuZgLdaQXC2" : "nemo@van.com",
+          "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : "kamilklein@yahoo.com"
+        },
+        "info" : {
+          "username" : "karelpapousek@gmail.com"
+        }
+      },
+      "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+        "friends" : {
+          "1ys9tmu6DqbZCP0wbUmQZeqerib2" : "karelpapousek@gmail.com",
+          "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : "jannovak@seznam.cz"
+        },
+        "info" : {
+          "username" : "nemo@van.com"
+        }
+      },
+      "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+        "friends" : {
+          "id_firend" : "id_firend"
+        },
+        "info" : {
+          "username" : "jannovak@seznam.cz"
+        }
+      },
+      "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : {
+        "friends" : {
+          "id_firend" : "id_firend"
+        },
+        "info" : {
+          "username" : "kamilklein@yahoo.com"
+        }
+      }
+    }
+  },
+  "server" : {
+    "administrators" : {
+      "6T31JeJLhvcqgQxHPvbT4cAUxgg1" : {
+        "username" : "admin@admin.com"
+      }
+    }
+  }
+}
