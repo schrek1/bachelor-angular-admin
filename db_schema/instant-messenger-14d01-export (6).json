@@ -1,0 +1,395 @@
+{
+  "app" : {
+    "groups" : {
+      "group_id" : {
+        "info" : {
+          "group_name" : "name"
+        },
+        "messages" : {
+          "timestamp" : {
+            "from" : "uid",
+            "type" : "text",
+            "value" : "text_zpravy"
+          }
+        },
+        "subscribers" : {
+          "user_id" : "username"
+        }
+      }
+    },
+    "messages" : {
+      "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+        "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_conversation"
+          },
+          "1489844600" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "Cus :)"
+          },
+          "1490262333" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se mas?"
+          },
+          "1490610273" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "dobre"
+          },
+          "1490610378" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "djdjjddjdk"
+          },
+          "1490614115" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "fuj"
+          },
+          "1490621612" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "czdhfu"
+          },
+          "1492412703" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "ahoj"
+          }
+        }
+      },
+      "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+        "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+          "1489844500" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "ahoj"
+          },
+          "1490604610" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "a"
+          },
+          "1490604922" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "b"
+          },
+          "1490604936" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se vede?"
+          },
+          "1490604985" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "aaa"
+          }
+        },
+        "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_coversation"
+          },
+          "1489940000" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se vede?"
+          },
+          "1490179741" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "ansdasdsad"
+          },
+          "1490180000" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "test"
+          },
+          "1489953378 " : {
+            "read" : true,
+            "type" : "text",
+            "value" : "co je???"
+          }
+        },
+        "stjFRS9wYoW6HlHNcci3szRkSLm1" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_coversation"
+          },
+          "1491132769" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jkhkjh"
+          }
+        }
+      },
+      "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+        "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+          "1489923378" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "Zdar"
+          },
+          "1489963378" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "co by...jen pisu"
+          },
+          "1490190000" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "odpoved"
+          },
+          "1490192703" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "neco"
+          },
+          "1490193612" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jsdfhjkasdfjasdf"
+          },
+          "1490194260" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "pokus"
+          },
+          "1490195185" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "mej se"
+          },
+          "1490999538" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "ssjsb"
+          },
+          "1490999540" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "bdhdhd"
+          },
+          "1490999541" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "ndjdjd"
+          },
+          "1490999542" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "njdidjd"
+          },
+          "1492761787" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "ahoj"
+          }
+        },
+        "stjFRS9wYoW6HlHNcci3szRkSLm1" : {
+          "1490779625" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "ahoj"
+          }
+        }
+      },
+      "stjFRS9wYoW6HlHNcci3szRkSLm1" : {
+        "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+          "1490779205" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "cus pepo"
+          },
+          "1491131199" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "aaa"
+          },
+          "1491132466" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "bbb"
+          },
+          "1491132817" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "tjj"
+          },
+          "1491133095" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "zh\n"
+          },
+          "1491133114" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "tgjggjbggug\nhgggttzutfzh\ngfhjgjih"
+          },
+          "1491133597" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "a"
+          },
+          "1491472056" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "aaa"
+          },
+          "1491472212" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "a"
+          },
+          "1491472224" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "ff"
+          },
+          "1491472625" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "aaa"
+          },
+          "1491472909" : {
+            "read" : false,
+            "type" : "text",
+            "value" : "aa"
+          }
+        },
+        "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_coversation"
+          }
+        },
+        "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : {
+          "1490779016" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "cus pepo"
+          },
+          "1490779288" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "jak se vede?"
+          }
+        }
+      },
+      "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : {
+        "stjFRS9wYoW6HlHNcci3szRkSLm1" : {
+          "-1" : {
+            "type" : "system",
+            "value" : "start_coversation"
+          },
+          "1490779254" : {
+            "read" : true,
+            "type" : "text",
+            "value" : "cus"
+          }
+        }
+      }
+    },
+    "notifications" : {
+      "-KjX-BQXa6LOJbodoVRf" : {
+        "icon" : "",
+        "message" : "ucebna u13",
+        "time" : "05/10/17 11:40",
+        "title" : "meeting",
+        "type" : "meetup"
+      },
+      "-KjX9iZtV09MHw1oQARP" : {
+        "devices" : {
+          "1ys9tmu6DqbZCP0wbUmQZeqerib2" : "cwLdCHAbyAw:APA91bGZGnws8J-e4hJz56YKfzNTXR6UrpunqC6Mg7iwGP4cJczD-urMyLb0GncutHtCR9Dr97vbFUpc4PU_-9WkKLapesN9b_Wi8JI_adk4ktQd0B2wAhl2i7HfkqON5ZlAm_eKPlgO",
+          "stjFRS9wYoW6HlHNcci3szRkSLm1" : "cwLdCHAbyAw:APA91bGZGnws8J-e4hJz56YKfzNTXR6UrpunqC6Mg7iwGP4cJczD-urMyLb0GncutHtCR9Dr97vbFUpc4PU_-9WkKLapesN9b_Wi8JI_adk4ktQd0B2wAhl2i7HfkqON5ZlAm_eKPlgO"
+        },
+        "icon" : "",
+        "message" : "ucebna v9",
+        "time" : "05/23/17 11:07",
+        "title" : "schuze",
+        "type" : "meetup"
+      }
+    },
+    "users" : {
+      "1ys9tmu6DqbZCP0wbUmQZeqerib2" : {
+        "friends" : {
+          "1ys9tmu6DqbZCP0wbUmQZeqerib2" : "karelpapousek@gmail.com",
+          "8zngEay1PrNNf9pPuUuZgLdaQXC2" : "nemo@van.com",
+          "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : "kamilklein@yahoo.com"
+        },
+        "info" : {
+          "instanceId" : "cwLdCHAbyAw:APA91bGZGnws8J-e4hJz56YKfzNTXR6UrpunqC6Mg7iwGP4cJczD-urMyLb0GncutHtCR9Dr97vbFUpc4PU_-9WkKLapesN9b_Wi8JI_adk4ktQd0B2wAhl2i7HfkqON5ZlAm_eKPlgO",
+          "status" : {
+            "lastUpdate" : 1494146521225,
+            "state" : "offline"
+          },
+          "username" : "karelpapousek@gmail.com"
+        }
+      },
+      "8zngEay1PrNNf9pPuUuZgLdaQXC2" : {
+        "friends" : {
+          "1ys9tmu6DqbZCP0wbUmQZeqerib2" : "karelpapousek@gmail.com",
+          "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : "jannovak@seznam.cz",
+          "stjFRS9wYoW6HlHNcci3szRkSLm1" : "pepa@blecha.cz"
+        },
+        "info" : {
+          "instanceId" : "cwLdCHAbyAw:APA91bGZGnws8J-e4hJz56YKfzNTXR6UrpunqC6Mg7iwGP4cJczD-urMyLb0GncutHtCR9Dr97vbFUpc4PU_-9WkKLapesN9b_Wi8JI_adk4ktQd0B2wAhl2i7HfkqON5ZlAm_eKPlgO",
+          "status" : {
+            "lastUpdate" : 1494149373778,
+            "state" : "offline"
+          },
+          "username" : "nemo@van.com"
+        }
+      },
+      "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : {
+        "info" : {
+          "instanceId" : "cwLdCHAbyAw:APA91bGZGnws8J-e4hJz56YKfzNTXR6UrpunqC6Mg7iwGP4cJczD-urMyLb0GncutHtCR9Dr97vbFUpc4PU_-9WkKLapesN9b_Wi8JI_adk4ktQd0B2wAhl2i7HfkqON5ZlAm_eKPlgO",
+          "status" : {
+            "lastUpdate" : 1494146870124,
+            "state" : "offline"
+          },
+          "username" : "jannovak@seznam.cz"
+        }
+      },
+      "stjFRS9wYoW6HlHNcci3szRkSLm1" : {
+        "friends" : {
+          "8zngEay1PrNNf9pPuUuZgLdaQXC2" : "nemo@van.com",
+          "ewDxjEV4v4aoZIbFifPZEMFhpWv1" : "jannovak@seznam.cz",
+          "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : "kamilklein@yahoo.com"
+        },
+        "info" : {
+          "instanceId" : "cwLdCHAbyAw:APA91bGZGnws8J-e4hJz56YKfzNTXR6UrpunqC6Mg7iwGP4cJczD-urMyLb0GncutHtCR9Dr97vbFUpc4PU_-9WkKLapesN9b_Wi8JI_adk4ktQd0B2wAhl2i7HfkqON5ZlAm_eKPlgO",
+          "status" : {
+            "lastUpdate" : 1494146903491,
+            "state" : "offline"
+          },
+          "username" : "pepa@blecha.cz"
+        }
+      },
+      "weSPOb7dFRa9B4Rv6Bo9YfkVd913" : {
+        "friends" : {
+          "stjFRS9wYoW6HlHNcci3szRkSLm1" : "pepa@blecha.cz"
+        },
+        "info" : {
+          "instanceId" : "cwLdCHAbyAw:APA91bGZGnws8J-e4hJz56YKfzNTXR6UrpunqC6Mg7iwGP4cJczD-urMyLb0GncutHtCR9Dr97vbFUpc4PU_-9WkKLapesN9b_Wi8JI_adk4ktQd0B2wAhl2i7HfkqON5ZlAm_eKPlgO",
+          "status" : {
+            "lastUpdate" : 1494147007355,
+            "state" : "offline"
+          },
+          "username" : "kamilklein@yahoo.com"
+        }
+      }
+    }
+  },
+  "server" : {
+    "administrators" : {
+      "6T31JeJLhvcqgQxHPvbT4cAUxgg1" : {
+        "username" : "admin@admin.com"
+      }
+    }
+  }
+}

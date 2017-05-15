@@ -34,6 +34,7 @@ export class AuthService {
     );
   }
 
+
   isLoggedIn(){
     let user = firebase.auth().currentUser;
 

@@ -13,6 +13,8 @@ export class UserService {
   /**
    vytvori noveho uzivatele mobilni aplikace a objekt v db
    */
+
+
   createNewUser(user: User) {
     firebase.auth().createUserWithEmailAndPassword(user.username, user.password)
       .then(userInfo => {
